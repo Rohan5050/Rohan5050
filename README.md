@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohan5050
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Technical projects 
 - 📫 How to reach me rohanvohra055@gmail.com
 
 <!---
